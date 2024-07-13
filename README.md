@@ -13,3 +13,4 @@
 <p>Mavem</p>
 <p>PostgreSQL</p>
 <p>Spring Bot</p>
+![badge literalura](https://github.com/user-attachments/assets/deda49d8-f13c-446f-8f28-fd29b1e0395c)
