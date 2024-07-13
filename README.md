@@ -13,6 +13,7 @@
 <p>SpringBot</p>
 <p>Mavem</p>
 <p>PostgreSQL</p>
-<img src="https://github.com/user-attachments/assets/ae8e963f-6590-4926-b68d-7c3fa677cac1/logo.png" alt="badge literalura">
+<img src="https://user-attachments/assets/ae8e963f-6590-4926-b68d-7c3fa677cac1/logo.png" alt="badge literalura">
 
+![badge literalura](https://github.com/user-attachments/assets/4ae602da-50ea-4732-81f0-c4373150f72c)
 
