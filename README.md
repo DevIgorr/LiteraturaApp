@@ -10,9 +10,9 @@
 
 <h3>Tecnologias utilizadas</h3>
 <p>Java</p>
+<p>SpringBot</p>
 <p>Mavem</p>
 <p>PostgreSQL</p>
-<p> Spring Bot</p>
-<img src="[https://exemplo.com](https://github.com/user-attachments/assets/ae8e963f-6590-4926-b68d-7c3fa677cac1)/logo.png" alt="badge literalura">
+<img src="https://github.com/user-attachments/assets/ae8e963f-6590-4926-b68d-7c3fa677cac1/logo.png" alt="badge literalura">
 
 
